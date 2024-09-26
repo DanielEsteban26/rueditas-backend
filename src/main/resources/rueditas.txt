@@ -1,0 +1,9 @@
+1;SAR-122;Hyundai;Tucson;5;24000;Blanco
+2;SAR-123;Chevrolet;Equinox;5;27000;Rojo
+3;SAR-124;Toyota;RAV4;5;28000;Azul
+4;SAR-125;Mazda;CX-5;5;25000;Gris
+5;SAR-126;Ford;Escape;5;26500;Negro
+6;SAR-127;Nissan;Rogue;5;24500;Blanco
+7;SAR-128;Honda;CR-V;5;27500;Plata
+8;SAR-129;Jeep;Cherokee;5;29000;Verde
+9;SAR-130;Subaru;Forester;5;26000;Azul
