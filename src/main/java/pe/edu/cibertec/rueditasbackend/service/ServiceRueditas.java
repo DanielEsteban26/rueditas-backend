@@ -1,4 +1,4 @@
-package pe.edu.cibertec.rueditasbackend.service.imp;
+package pe.edu.cibertec.rueditasbackend.service;
 
 import pe.edu.cibertec.rueditasbackend.dto.RueditasRequest;
 
